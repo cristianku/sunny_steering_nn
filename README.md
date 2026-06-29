@@ -1,4 +1,4 @@
-# sunny_steering_nn
+# Sunnypilot NNLC Steering Models
 
 Repository for custom neural-network lateral steering models for **sunnypilot**.
 
